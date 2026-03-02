@@ -1,0 +1,15 @@
+# Data & models (too large for Git)
+*.csv
+*.tif
+*.tiff
+*.nc
+*.shp
+*.pkl
+*.joblib
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env

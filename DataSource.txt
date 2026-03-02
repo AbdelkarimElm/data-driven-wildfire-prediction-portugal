@@ -1,0 +1,49 @@
+
+data location des feu
+https://firms.modaps.eosdis.nasa.gov/country/
+
+landcover and population
+googleEarth engine
+landcover data card
+https://developers.google.com/earth-engine/datasets/catalog/ESA_GLOBCOVER_L4_200901_200912_V2_3?hl=fr#bands
+
+Climate dataset:
+https://worldclim.org/data/monthlywth.html at 5 minutes
+
+Soil dataset:
+https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/harmonized-world-soil-da
+tabase-v20/en/
+
+Elevation dataset:
+WorldWide:
+https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/topo/downloads/GMTED/Grid_ZipFiles
+
+Forest type :
+https://dados.gov.pt/en/datasets/carta-de-ocupacao-do-solo-conjuntural-2023/
+
+
+Data Sources for the Papers Dataset:
+
+Aspect et slope:
+   Titre : Map overlay
+   URL   : https://portal.opentopography.org
+
+lst:
+   URL : https://hub.worldpop.org/
+
+twi Europe:
+   URL : https://stac.ecodatacube.eu/twi_edtm/
+
+ndvi Portugal:
+   URL : https://dataspace.copernicus.eu
+
+Wind Speed Portugal:
+   Titre : Climate and energy related variables from the Pan-European
+           Climate Database derived from reanalysis and climate projections
+   URL   : https://cds.climate.copernicus.eu
+
+Humidity Portugal (calculated from two variables):
+   Titre : Climate and energy related variables from the Pan-European
+           Climate Database derived from reanalysis and climate projections
+   URL   : https://cds.climate.copernicus.eu
+
